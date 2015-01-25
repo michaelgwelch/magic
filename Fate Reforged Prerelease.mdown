@@ -12,38 +12,38 @@ Deck
 -----
 
 ### Creatures
-Ponyback Brigade
-Timely Hordemate
-Abzan Skycaptain
-Sansteppe Outcast
-Arashin Cleric
-Jeskai Student
-Wandering Champion
-Necropolis Fiend
-Noxious Dragon
-Alesha's Vanguard
-Mardu Strike Leader
-Typhoid Rats x2
-Mardu Skullhunter
-Sultai Emissary
-Alesha, Who Smiles at Death
+* Ponyback Brigade
+* Timely Hordemate
+* Abzan Skycaptain
+* Sansteppe Outcast
+* Arashin Cleric
+* Jeskai Student
+* Wandering Champion
+* Necropolis Fiend
+* Noxious Dragon
+* Alesha's Vanguard
+* Mardu Strike Leader
+* Typhoid Rats x2
+* Mardu Skullhunter
+* Sultai Emissary
+* Alesha, Who Smiles at Death
 
 ### Non-creatures
-Mardu Charm
-Abzan Runemark
-Throttle
-Reach of Shadows x2
-Rite of the Serpent
-Mardue Runemark
+* Mardu Charm
+* Abzan Runemark
+* Throttle
+* Reach of Shadows x2
+* Rite of the Serpent
+* Mardue Runemark
 
 ### Lands
-Mountain x2
-Swamp x4
-Plains x5
-Scoured Barrens x3
-Wind Scarred Craig
-Nomad Outpost
-???? (1 missing - probably scoured barrens or just basic land)
+* Mountain x2
+* Swamp x4
+* Plains x5
+* Scoured Barrens x3
+* Wind Scarred Craig
+* Nomad Outpost
+* ???? (1 missing - probably scoured barrens or just basic land)
 
 
 Side Board
