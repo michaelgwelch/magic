@@ -1,0 +1,130 @@
+Fate Reforged Prerelease
+=======================
+
+Date: 1/18/2015
+
+Event Format: Sealed  (Seeded Prerelease Packs)
+
+Prerelease Pack: Mardu
+
+
+Deck
+-----
+
+### Creatures
+Ponyback Brigade
+Timely Hordemate
+Abzan Skycaptain
+Sansteppe Outcast
+Arashin Cleric
+Jeskai Student
+Wandering Champion
+Necropolis Fiend
+Noxious Dragon
+Alesha's Vanguard
+Mardu Strike Leader
+Typhoid Rats x2
+Mardu Skullhunter
+Sultai Emissary
+Alesha, Who Smiles at Death
+
+### Non-creatures
+Mardu Charm
+Abzan Runemark
+Throttle
+Reach of Shadows x2
+Rite of the Serpent
+Mardue Runemark
+
+### Lands
+Mountain x2
+Swamp x4
+Plains x5
+Scoured Barrens x3
+Wind Scarred Craig
+Nomad Outpost
+???? (1 missing - probably scoured barrens or just basic land)
+
+
+Side Board
+------------
+
+### Green
+* Whisperer of the Wilds
+* Map the Wastes x2
+* Abzan Beast Master
+* Archers of Qarsi
+* Hunt the Weak
+* Return to the Earth
+* Formless Nurturing x3
+* Frontier Siege
+* Battlefront Krushok x2
+* Feral Krushok
+* Ambush Krotiq
+* Temur War Shaman
+
+### Blue
+* Embodiment of Sprint
+* Fascination
+* Renowned Weaponsmith
+* Shu Yun, the Silent Tempest
+* Marang River Prowler
+* Rakshasa's Disdain
+* Mistfire Adept
+* Lotus Path Djinn
+* Enhanced Awareness
+* Aven Surveyor
+* Will of the Naga
+* Glacial Stalker
+* Shifting Loyalties
+
+### Red
+* Collateral Damage x2
+* Temur Battle Rage x2
+* Shatter
+* Mardu Scout x2
+* Tormenting Voice
+* Arc Lightning
+* Gore Swine
+* Bloodfire Mentor
+* Goblin Hellcutter
+* Lightning Shrieker
+
+### Black
+* Mardu Shadowspear
+* Debilitating Injury
+* Douse in Gloom
+* Dark Deal x2
+* Hooded Assassin x2
+* Rotting Mastodon
+* Reach of Shadows
+* Tasigur's Cruelty x2
+
+### White
+* Firehoof Cavalry x2
+* Mardu Woe-Reaper x2
+* Aven Skirmisher
+* Abzan Advantage
+* Soul Summons
+* Pressure Point
+* Sandsteppe Outcast
+* Siegecraft
+* Great-Horn Krushok
+
+### Multicolor
+* Icefeather Aven
+* Sultai Charm
+* War Flare
+* Cunning Strike x2
+
+### Colorless
+* Mardu Banner
+* Abzan Banner
+* Briber's Purse
+
+### Special Land
+* Scoured Barrens
+* Thornwood Falls
+* Swiftwater Cliffs
+* Crucible of the Spirit Dragon
+* Mystic Monastery
